@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 # wifx.sh — Launcher for WIFX (WiFi Recon & Audit)
-# Resolves its own directory so it can be run from anywhere, checks
-# the Python version and for root (most wifi/* modules need raw
-# socket / monitor-mode access), then hands off to the console.
 
 set -euo pipefail
 

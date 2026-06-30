@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- 
 """
 WIFX - WiFi Recon & Audit
 Author: NeiveZ | github.com/NeiveZ/WIFX
